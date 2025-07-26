@@ -2,3 +2,47 @@
 Overview
 
 This project implements a spam filtering system using Natural Language Toolkit (NLTK) in Python. It classifies messages as spam or ham (not spam) based on text analysis and machine learning techniques.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Features
+
+• Preprocessing of text data (tokenization, stemming, stopword removal)
+
+• Feature extraction using TF-IDF vectorization
+
+• Spam classification using Naive Bayes classifier
+
+• Evaluation metrics like accuracy, precision, recall, and F1-score
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Dataset
+
+The project uses a publicly available dataset "spam.csv" containing labeled spam and ham messages.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Dependencies
+
+• Python 3.x
+
+• NLTK
+
+• Scikit-learn
+
+• Pandas
+
+• NumPy
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Contributing
+
+Feel free to fork the repository and submit pull requests for improvements.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Contact
+
+For any queries, reach out at samarthk292@gmail.com
